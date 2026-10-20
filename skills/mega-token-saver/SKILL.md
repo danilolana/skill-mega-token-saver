@@ -1,7 +1,7 @@
 ---
 name: mega-token-saver
 description: >
-  Economiza tokens no Codex sem sacrificar qualidade técnica. Reduz saída e leitura
+  Economiza tokens no seu agente de IA sem sacrificar qualidade técnica. Reduz saída e leitura
   desnecessárias, mas amplia contexto automaticamente quando debugging, dependências,
   refatorações ou segurança exigirem. Ativa com "modo saver", "economia máxima",
   "save tokens" ou /tokensaver.
