@@ -26,7 +26,7 @@ Instale estas fontes:
    - Caminho: `skills/web-design-guidelines`
 
 5. `mega-token-saver`
-   - Repositório: `danilolana/mega-token-saver-codex`
+   - Repositório: `danilolana/skill-mega-token-saver`
    - Caminho: `skills/mega-token-saver`
 
 Ao terminar, informe para cada skill se foi instalada, se já existia ou se falhou. Não instale dependências nem altere configurações do projeto. Avise que novas skills ficam disponíveis na próxima mensagem.
